@@ -5,14 +5,14 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Get it from my.telegram.org
-API_ID = ""
-API_HASH = ""
+API_ID = "23995611"
+API_HASH = "a1b94f10b912c9d732c320f9c73d73dc"
 
 # Get it from @Botfather in Telegram.
-BOT_TOKEN = ""
+BOT_TOKEN = "5993905725:AAH84wjsKu_86b2GevYNuliDh-xPDL-OA70"
 
 # Create Your Own ApiKey From @TechZApiBot To Use Logo Api
-API_KEY = ""
+API_KEY = "OYTLFL"
 
 
 # Don't Change Anything Below This Line
