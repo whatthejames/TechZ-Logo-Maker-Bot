@@ -28,10 +28,10 @@ if not API_KEY or API_KEY.strip() == "":
     API_KEY = getenv("API_KEY")
 
 
-LOGO_API_URL1 = f"https://techzapi.azurewebsites.net/logo?api_key={API_KEY}&text="
+LOGO_API_URL1 = f"http://api.techzbots.live/logo?api_key={API_KEY}&text="
 
 LOGO_API_URL2 = (
-    f"https://techzapi.azurewebsites.net//logo?api_key={API_KEY}&square=True&text="
+    f"http://api.techzbots.live/logo?api_key={API_KEY}&square=True&text="
 )
 
 
